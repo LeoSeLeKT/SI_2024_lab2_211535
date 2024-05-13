@@ -26,4 +26,9 @@ P - број на различни компоненти
 
 ![табела си лаб2](https://github.com/LeoSeLeKT/SI_2024_lab2_211535/assets/94115888/db476478-7a29-44b2-a320-43d82651551d)
 
+## Тест случаи според Multiple Condition критериумот за условот if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0)== '0')
+За позитивен тест случај, мора секој од следниве тест примери да биде позитивен, за да биде задоволен цел услов: item.getPrice() > 300 ; item.getDiscount() > 0 ; item.getBarcode().charAt(0)=='0'
+
+Додека, ако барем еден од следниве услови се исполнува, условот ќе е негативен: item.getPrice()<=300 ; item.getDiscount()<=0 ; item.getBarcode().charAt(0)!='0'
+
 
