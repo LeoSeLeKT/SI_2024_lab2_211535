@@ -1,9 +1,9 @@
 # SI_2024_lab2_211535
-**Control Flow Graph**
+## Control Flow Graph
 
 ![SI lab2 cfg](https://github.com/LeoSeLeKT/SI_2024_lab2_211535/assets/94115888/5d70ff9f-34ab-4374-a872-edf6bc177d08)
 
-**Цикломатска комплексност**
+## Цикломатска комплексност
 
 M = E - N + 2P
 
@@ -21,6 +21,8 @@ P - број на различни компоненти
 
 
 
-**Тест случаи според критериумот Every Statement**
+## Тест случаи според критериумот Every Statement
 
 ![табела си лаб2](https://github.com/LeoSeLeKT/SI_2024_lab2_211535/assets/94115888/db476478-7a29-44b2-a320-43d82651551d)
+
+
